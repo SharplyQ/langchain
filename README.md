@@ -1,4 +1,4 @@
-# 🦜️🔗 LangChain
+# 🦜️🔗 LangChain is a framework for LLM building tools.
 
 ⚡ Building applications with LLMs through composability ⚡
 
